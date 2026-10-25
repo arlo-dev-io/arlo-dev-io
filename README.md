@@ -15,7 +15,7 @@ I'm a self-taught web developer learning and building things online.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## My projects
-- **[Project name]**: short description of what it does
+- **Online Now**: A Android Launcher with minimalism look.
 - **[Project name]**: short description of what it does
 
 ## Goal
