@@ -5,9 +5,9 @@ I'm a self-taught web developer learning and building things online.
 
 ## About me
 - 🌱 Currently learning: [JavaScript, React, Node.js, or whatever you're on]
-- 🔨 Working on: [your current project]
+- 🔨 Working on: 
 - 💡 I taught myself web development through online courses and practice
-- 📫 Reach me at: [your email or LinkedIn]
+- 📫 Reach me at: 
 
 ## Tech I use
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
