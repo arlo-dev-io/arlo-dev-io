@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33919004/README.md)
 # Hey, I'm Arlo 👋
 
 I'm a self-taught web developer learning and building things online.
